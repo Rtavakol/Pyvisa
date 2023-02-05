@@ -4,8 +4,9 @@ Python scripts to sommunicate with instruments
 
 This repository contains:
 ## [Notebook](https://github.com/Rtavakol/MagLab/tree/main/Coordinate%20Files)
-Are Notebooks written in Python to generate coordinates associate with a magnetic coil. One can copy coordinates and paste in BiotSavart software.
+Are Notebooks written in Python using [Pyvisa]() and []() libraries to communicate with instruments in the lab. Instruments are connected through GPIB, USB, RS 232 or ethernet ports. 
 
-* You can find dimension of coils at [Geometry](). 
+
+*  
 * 
 
